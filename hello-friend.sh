@@ -1,0 +1,45 @@
+#!/bin/sh
+
+	
+echo "            .                                                      ."
+echo "          .n                   .                 .                  n."
+echo "    .   .dP                  dP                   9b                 9b.    ."
+echo "   4    qXb         .       dX                     Xb       .        dXp     t"
+echo "  dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb"
+echo "  9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP"
+echo "   9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP"
+echo "    \`9XXXXXXXXXXXXXXXXXXXXX'~   ~\`OOO8b   d8OOO'~   ~\`XXXXXXXXXXXXXXXXXXXXXP'"
+echo "      \`9XXXXXXXXXXXP' \`9XX'  HELLO   \`98v8P'  FRIEND  \`XXP' \`9XXXXXXXXXXXP'"
+echo "          ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~"
+echo "                          )b.  .dbo.dP'\`v'\`9b.odb.  .dX("
+echo "                        ,dXXXXXXXXXXXb     dXXXXXXXXXXXb."
+echo "                       dXXXXXXXXXXXP'   .   \`9XXXXXXXXXXXb"
+echo "                      dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb"
+echo "                      9XXb'   \`XXXXXb.dX|Xb.dXXXXX'   \`dXXP"
+echo "                       \`'      9XXXXXX(   )XXXXXXP      \`'"
+echo "                                XXXX X.\`v'.X XXXX"
+echo "                                XP^X'\`b   d'\`X^XX"
+echo "                                X. 9  \`   '  P )X"
+echo "                                \`b  \`       '  d'"
+echo "                                 \`             '"
+echo ""
+
+
+echo "       ooooo   ooooo oooooooooooo ooooo        ooooo          .oooooo."
+echo "       \`888'   \`888' \`888'     \`8 \`888'        \`888'         d8P'  \`Y8b"
+echo "        888     888   888          888          888         888      888"
+echo "        888ooooo888   888oooo8     888          888         888      888"
+echo "        888     888   888    \"     888          888         888      888"
+echo "        888     888   888       o  888       o  888       o \`88b    d88'"
+echo "       o888o   o888o o888ooooood8 o888ooooood8 o888ooooood8  \`Y8bood8P'"
+
+
+
+echo "   oooooooooooo ooooooooo.   ooooo oooooooooooo ooooo      ooo oooooooooo."
+echo "   \`888'     \`8 \`888   \`Y88. \`888' \`888'     \`8 \`888b.     \`8' \`888'   \`Y8b"
+echo "    888          888   .d88'  888   888          8 \`88b.    8   888      888"
+echo "    888oooo8     888ooo88P'   888   888oooo8     8   \`88b.  8   888      888"
+echo "    888    \"     888\`88b.     888   888    \"     8     \`88b.8   888      888"
+echo "    888          888  \`88b.   888   888       o  8       \`888   888     d88'"
+echo "   o888o        o888o  o888o o888o o888ooooood8 o8o        \`8  o888bood8P'"
+echo ""
